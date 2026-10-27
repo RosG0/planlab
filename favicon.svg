@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>ПланЛаб</title>
+  <style>
+    .room{fill:#fbf7ef}.liquid{fill:#4f7a5a}.wall{fill:none;stroke:#2f343b}
+    @media (prefers-color-scheme: dark){.room{fill:#2b2c29}.liquid{fill:#86b192}.wall{stroke:#ebe5d7}}
+  </style>
+  <path class="room" d="M13.5 3V12L5 28H27L18.5 12V3Z"/>
+  <path class="liquid" d="M9.25 20H22.75L27 28H5Z"/>
+  <path class="wall" stroke-width="2.5" d="M16 20v8"/>
+  <path class="wall" stroke-width="2" d="M9.25 20H22.75"/>
+  <path class="wall" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" d="M11.5 3H20.5M13.5 3V12L5 28H27L18.5 12V3"/>
+</svg>
